@@ -1,0 +1,25 @@
+body {
+    font-size: 15pt;
+}
+.two-friends{
+  display:flex;
+  width:40px;
+  padding-left: 10px;
+}
+.Mohammad{
+  width: 40%
+  Margin-left:20%;
+  Margin-right:20%;
+  box-shadow: 10px 10px 30px Gray;
+  padding: 10px;
+  border-radius:10px;
+}
+#ashraful{
+  border-left: 10px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 30;
+}
+#jakaria{
+  border-left:10px solid;
+  border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+}
